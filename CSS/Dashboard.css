@@ -70,10 +70,11 @@ font-size: 1.7rem;
     height:253px;
 
 }
-.p7{
+
+ .p7{
     font-weight:bolder; 
     font-size: 1.8rem;
-    /* color: linear-gradient(90deg, #F8962C 0%, #EF3C26 100%); */
+    color: #F8962C ;
 }
 .liter{
     font-weight:bolder; 
