@@ -1,0 +1,43 @@
+html {
+    scroll-behavior: "smooth";
+}
+
+* {
+    margin: 0px;
+    padding: 0, 10px;
+    box-sizing: border-box;
+    
+}
+.cont{
+    padding:30px;
+}
+.title{
+    color:#F8962C;
+}
+.naming{
+    color: #F57329;
+    font-weight:bolder;
+    font-size: 20px;
+    padding-left:32px;
+}
+.surname{
+    padding-left: 35px;
+}
+.btn{
+    background: linear-gradient(90deg, #F8962C 0%, #EF3C26 100%);
+    color:white;
+    padding:30px;
+    margin-left: 35px;
+    font-weight: bold;
+}
+.btn-text{
+    color:white;
+}
+.msg{
+    font-size: 2rem;
+    background: linear-gradient(90deg, #F8962C 0%, #EF3C26 100%);
+    /*text-align:center;
+    border-radius: 15px;*/
+}
+
+
