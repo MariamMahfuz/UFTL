@@ -7,6 +7,15 @@ html {
     padding: 0, 10px;
     box-sizing: border-box;  
 }
+.back{
+    padding: 30px;
+}
+.home{
+    color:#ffffff;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+}
 
 #verification{
     width: 100%;
@@ -14,7 +23,6 @@ html {
     background: linear-gradient(90deg, #F8962C 0%, #EF3C26 100%);
 }
 .container img{
-    margin-top: 70px;
     padding:20px;
 }
 .submission{
